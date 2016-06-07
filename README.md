@@ -1,20 +1,27 @@
-# Dictionarymethods
+# Dictionary Methods
 
-## Objectives
+<img src="http://www.gannett-cdn.com/-mm-/ebdb4a877cbb3e169ea1868cf208c292db95e230/c=0-301-2789-2398&r=x404&c=534x401/local/-/media/USATODAY/USATODAY/2014/11/28/635527618270950008-shia-002.jpg" alt="Drawing" style="width: 200px;"/>  
 
-1. Objective 1
-2. Objective 2.
 
-## Instructions
+> Do It!
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
+## Learning Objectives - The student should be able to..
 
-### Part 1: Do Some Stuff
+* Blah blah blah
 
-## Resources
+## What the student can do at this point 
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+* More stuff
+
+## Outline / Notes
+
+
+![Moon](http://i.imgur.com/TKGPlOP.png?1)
+
+![MostMoons](http://i.imgur.com/97SycHV.png?1)
+
+![PlanetsToScale](http://i.imgur.com/VkYDl4X.jpg?1)
+
 
 <a href='https://learn.co/lessons/DictionaryMethods' data-visibility='hidden'>View this lesson on Learn.co</a>
