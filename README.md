@@ -1,20 +1,18 @@
 # Dictionary Methods
 
-<img src="http://d.gr-assets.com/authors/1341965730p5/16667.jpg" alt="Drawing" style="width: 200px;"/>  
+![Drawing](http://d.gr-assets.com/authors/1341965730p5/16667.jpg)
 
-
-> The most exciting phrase to hear in science, the one that heralds the most discoveries, is not "Eureka!" (I found it!) but 'That's funny...
-
+> The most exciting phrase to hear in science, the one that heralds the most discoveries, is not "Eureka!" (I found it!) but 'That's funny...'
 
 ## Learning Objectives - The student should be able to..
 
 * Update values within a dictionary using subscript syntax and `updateValue(_:forKey:)`.
-* Understand that by accessing something within a dictionary using a key, you are getting back a Value.. but an Optional Value which requires you to unwrap it (check to see that it's not nil)
-* Access a Value with a given Key, update that Value and reflect that update (change) back to the dictionary.
-* Remove a Key Value pair setting the Value equal to nil with the provided Key.
-* Remove a Key Value pair using the method `removeValueForKey()`
-* Explain that by using `.count`, you will retrieve the total number of Key Value pairs within the dictionary.
-* Explain that `.isEmpty` is a way to see if in fact the dictionary is empty, in that it returns a `Bool`, either `true` or `false` if the count is equal to 0.
+* Understand that by accessing something within a dictionary using a key, you are getting back a value, but it's an optional value which requires you to unwrap it.
+* Access a value with a given key, update that value and reflect that update (change) back to the dictionary.
+* Remove a key/value pair by assigning the value to `nil`.
+* Remove a key/value pair using the method `removeValueForKey()`.
+* Explain that by using `.count`, you will retrieve the total number of key/value pairs within the dictionary.
+* Explain that `.isEmpty` is a way to see if in fact the dictionary is empty, in that it returns a `Bool`.
 * What `.keys` and `.values` does and how you can iterate over what this returns.
 
 ## What the student can do at this point 
