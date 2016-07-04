@@ -15,38 +15,4 @@
 * Explain that `.isEmpty` is a way to see if in fact the dictionary is empty, in that it returns a `Bool`.
 * What `.keys` and `.values` does and how you can iterate over what this returns.
 
-## What the student can do at this point 
-
-* Create variables and constants
-* Is familiar with type annotations, type inference and string interpolation.
-* Can create functions with return types.
-* Is familiar with the String, Int, Double, and Bool type.
-* Can perform arithmetic operations on Int and Double.
-* Understands if and else clause statements.
-* Can create and use Arrays.
-* Can iterate over an Array using a for-in loop.
-* Can iterate over an Array calling enumerate().
-* Work with the following methods on arrays:
-	* append()
-	* insert(_:atIndex:)
-	* removeAtIndex()
-	* subscript syntax with arrays
-	* count
-	* isEmpty
-	* Optionals
-* Can work with dictoinaries 
-* Can iterate over a dictionary
-* Knows about optionals (should at this point)
-
-## Outline / Notes
-
-* I've included a playground file which includes my notes in what I'm interested in covering for this particular lesson and how to go about it. I generally include those notes here but I found it easier doing in playground for this particular lesson.
-
-![Moon](http://i.imgur.com/TKGPlOP.png?1)
-
-![MostMoons](http://i.imgur.com/97SycHV.png?1)
-
-![PlanetsToScale](http://i.imgur.com/VkYDl4X.jpg?1)
-
-
 <a href='https://learn.co/lessons/DictionaryMethods' data-visibility='hidden'>View this lesson on Learn.co</a>
