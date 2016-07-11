@@ -149,3 +149,6 @@ let allTheMoons = Array(planetsAndTheirMoons.values)
 for numberOfMoons in planetsAndTheirMoons.values {
     print(numberOfMoons)
 }
+
+//Just like with keys, values are not returned in any particular order. (Dictionaries are unordered—remember that!)
+//That covers the fundamental operations you can perform on dictionaries. As you work with Swift, you'll encounter many more, but these basic operations are the ones you'll see and use the most.
